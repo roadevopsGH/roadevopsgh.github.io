@@ -29,32 +29,4 @@
   background-color: #04AA6D;
   color: white;
 }
-.imgbox
-{
-  display: grid;
-  height: 100%;
-}
-.center-fit {
-  max-width: 100%;
-  max-height: 100vh;
-  margin: auto;
-}
-.talk-bubble {
-	margin: 40px;
-  display: inline-block;
-  position: relative;
-	width: 200px;
-	height: auto;
-	background-color: lightyellow;
-}
-/* talk bubble contents */
-.talktext{
-  padding: 1em;
-	text-align: left;
-  line-height: 1.5em;
-}
-.talktext p{
-  /* remove webkit p margins */
-  -webkit-margin-before: 0em;
-  -webkit-margin-after: 0em;
-}
+
