@@ -3,14 +3,35 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Road Assist</title>
+    <!-- CSS -->
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
-    <!-- Your visible content goes here -->
-    <h1>Testing</h1>
-
-    <script src="script.js"></script>
+	<input type="text" id="searchBox" placeholder="Driver says...">
+	<div id="issues"></div>
+	<div id="results"></div>
+    <div class="topnav">
+	<a class="active" href="#home">Home</a>
+    <a href="reeferissues.html">Reefer Issues</a>
+    <a href="truckissues.html">Truck Issues</a>
+    <a href="trailerissues.html">Trailer Issues</a>
+    <a href="apuissues.html">APU Issues</a>
+</div>
+    <!-- Content -->
+	<!-- GOALS: 
+		Common responses for a driver to look up:
+		APU
+		Trailer Lights Inop-->
+		
+	<!-- NEED: 
+		Drop down bar with Issue
+		Description of the issue
+		Common troubleshooting steps -->
+		
+	<div id="absLight"><h3>Issue: The ABS light is illuminated on my trailer</h2> <br> Resolution: The ABS light can be a result of many things. In some cases, it is the wheel speed sensor, or the tone ring. Reguardless, it takes a specialty repair and diagnostics to get to the root of the issue. Road Service, Loves, TA, Speedco, these shops do not have the diagnostic software and expertise to get to the root of the issue most of the time. They can easily get the light to turn off, but it will usually come back on just a few miles down the road. We must get this unit to a terminal to get to the root cause of the problem. <br></div>
+	
+    <!-- JS -->
+    <script src="scripts.js"></script>
 </body>
 </html>
