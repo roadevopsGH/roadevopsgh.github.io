@@ -13,26 +13,3 @@ function openHomeMenu(){
         x.style.display = "none";
   }
 }
-fetch("issues.json")
-	.then(response => response.json())
-	.then(data => displayIssues(data));
-function displayIssues(issues){
-	const container = document.getElementById("issues");
-	issues.forEach(issue => {
-		const card = document.createElement("div");
-		card.className = "card";
-		card.innerHTML = `
-		<h3>${issue.title}</h3>
-		<h3>${issue.severity}</h3>
-		<h3>${issue.action}</h3>
-		`;
-	container.appendChild(card);
-	});
-}
-searchBox.addEventListner("input", () => {
-	const term = searchBox.value.toLowerCase();
-	const filtered = issues.filter(issue =>
-		issue.title.toLowerCase().includes(term)
-		);
-	displayIssues(filtered);
-});
