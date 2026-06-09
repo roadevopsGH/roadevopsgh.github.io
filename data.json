@@ -33,5 +33,17 @@
 		"documents, we will do an adjustment",
 		"and it will be added to your",
 		"settlement."]
+},
+{
+	"issue":"How does Downtime Work?",
+	"category":"Dealer Downtime",
+	"message":["When you are down at a dealer, the",   
+		"first 24 hours are not covered. The",
+		"next 24, until the day of pickup are.", 
+		"You must make it the full 24 hours, to",
+		"the minute, for a day to count for",   
+		"downtime. It is paid at 275 a day for", 
+		"solo and 400 for team.",                
+		"It will be added to your settlement.", ]
 }
 ]
