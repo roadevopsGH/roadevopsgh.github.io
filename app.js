@@ -1,4 +1,4 @@
-fetch(`data.json?v=${$Date.now()}`)
+fetch(`data.json?v=${Date.now()}`)
 .then(response => response.json())
 .then(items =>{
 	const container = document.getElementById("helpTopics");
