@@ -100,5 +100,57 @@
 		"companies to assist. Your dispatcher",  
 		"can advance you the funds for the",    
 		"lockout to pay them." ]
+},
+{
+	"issue":"How can I get the fault codes on my Volvo?",
+	"category":"Volvo Action Line",
+	"message":["I would like you to call Volvo Action",
+		"line and retrieve the codes.",          
+		"The number is 1-800-528-6586.",         
+		"Extensions 1, then 3, then 1 again.",   
+		"Let me know the codes and the",         
+		"descriptions they give you please. We", 
+		"will make an action plan when we know", 
+		"what we are dealing with." ]
+},
+{
+	"issue":"How do I do a Key Cycle?",
+	"category":"Key Cycle",
+	"message":["To do a Key Cycle:",                   
+		"Step 1:",                               
+		"Truck off, Key in the 'ON' position, 5",
+		"min, THEN...",                          
+		"Step 2:",                               
+		"Truck off, Key in the 'OFF' position,", 
+		"5 min.",                               
+		"Let me know if and when you finish." ]
+},
+{
+	"issue":"How do I clear the codes with the battery switch?",
+	"category":"Clear Codes Power Switch",
+	"message":["Turn off the main power to the truck", 
+		"using the main power switch to the",    
+		"left of your driver's seat. Turn it",   
+		"off for 10 seconds, then back on for",  
+		"10 seconds. Do that 5 times in a row",  
+		"and let me know if there is any",       
+		"change. If not, turn off the main",     
+		"power for 35 min. Any less and we will",
+		"not get a full reset, any more and we",
+		"will have diminishing returns.  " ]
+},
+{
+	"issue":"How do I clear the codes by disconnecting the battery?",
+	"category":"Clear Codes Battery Disconnect",
+	"message":["If the power switch did not solve the",
+		"issue, we can try one more thing",     
+		"before we send out service. If you are",
+		"able, disconnect the Positive and",    
+		"Negative battery cables in your",       
+		"battery box. There are two. They come", 
+		"in on one side of the box or the",      
+		"other. Leave them disconnected for 35", 
+		"min. Please let me know if you are",    
+		"able and if that gets you rolling. " ]
 }
 ]
