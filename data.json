@@ -206,5 +206,36 @@
 		"finger in the middle of the switch.",  
 		"Turn it on and off as fast as you are", 
 		"able. seriously, fast. " ]
+},
+{
+	"issue":"What States are Split tow?",
+	"category":"Split tow states",
+	"message":["ARKANSAS",
+		"CONNECTICUT (up to 25 miles)",
+		"GEORGIA",
+		"INDIANA(up to 50 miles)",
+		"IOWA",
+		"KANSAS",
+		"MASSACHUSETTS",
+		"MICHIGAN",
+		"MONTANA",
+		"NEBRASKA",
+		"NEW JERSEY",
+		"New York",
+		"NORTH CAROLINA (up to 50 miles)",
+		"Ohio(must split if in Columbus)",
+		"Pennsylvania",
+		"SOUTH DAKOTA",
+		"South Carolina",
+		"South Dakota",
+		"TENNESSEE",
+		"VERMONT",
+		"WASHINGTON",
+		"WISCONSIN" ]
+},
+{
+	"issue":"What is our DOT number?",
+	"category":"DOT number",
+	"message":["Our DOT number is 3706" ]
 }
 ]
