@@ -59,5 +59,18 @@
 		"alert. I am sorry for the",             
 		"inconvenience and please do check it",  
 		"when you stop for any new issues." ]
+},
+{
+	"issue":"How to fill out an Accident Report",
+	"category":"ACCI Report",
+	"message":["**ACCI REPORT NEEDED**",               
+		"From the HOME screen of your Prime App",
+		"In the upper Left corner, click the 3", 
+		"lines. Look for Report Accident",       
+		"Fill in every line that you are able",  
+		"so we have all the info to assist.",    
+		"Please send in the pictures of the",    
+		"damage and safety will ask you to call",
+		"when they are ready for you to do so." ]
 }
 ]
