@@ -237,5 +237,12 @@
 	"issue":"What is our DOT number?",
 	"category":"DOT number",
 	"message":["Our DOT number is 3706" ]
+},
+{
+	"issue":"How do I do a regen on a Peterbilt?",
+	"category":"Peterbilt Regen",
+	"message":["Follow the steps in this video",
+		"It was made by our Peterbilt Rep.",
+		"https://youtu.be/Bic6eI30Rhk?si=zAoGKhIgCPy0VgIf30"]
 }
 ]
