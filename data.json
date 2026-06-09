@@ -44,7 +44,7 @@
 		"the minute, for a day to count for",   
 		"downtime. It is paid at 275 a day for", 
 		"solo and 400 for team.",                
-		"It will be added to your settlement.", ]
+		"It will be added to your settlement." ]
 },
 {
 	"issue":"Can you stop the alerts?",
@@ -58,6 +58,6 @@
 		"have an issue that is NOT a false",     
 		"alert. I am sorry for the",             
 		"inconvenience and please do check it",  
-		"when you stop for any new issues."  ]
+		"when you stop for any new issues." ]
 }
 ]
