@@ -20,7 +20,7 @@ function renderCards(items){
     `).join("");
 }
 
-document.getElementById("searchBox").addEventListner("input", event => {
+document.getElementById("searchBox").addEventListener("input", event => {
 	const searchTerm = event.target.value.toLowerCase();
 
 	const filteredItems = helpData.filter(item => {
