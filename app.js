@@ -27,7 +27,7 @@ document.getElementById("searchBox").addEventListner("input", event => {
 		return(
 			item.issue.toLowerCase().includes(searchTerm) ||
 			item.category.toLowerCase().includes(searchTerm) ||
-			item.message.join(" ").toLoverCase().includes(searchTerm)
+			item.message.join(" ").toLowerCase().includes(searchTerm)
 		);
 	});
 	renderCards(filteredItems);
