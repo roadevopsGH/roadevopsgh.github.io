@@ -1,5 +1,22 @@
 [{
 	"issue":"Geotab and Camera Help",
 	"category":"Tech Support",
-	"message":["Call the Main Number 417-866-0001 and ask for the Help Desk","They have all the sortware to assist"]
+	"message":["Call the Main Number 417-866-0001 and", 
+		"ask for the Help Desk.",
+		"They have all the sortware to assist",
+		"with GeoTab and Camera related issues",
+		"We do not have access in Road Assist."]
+}]
+[{
+	"issue":"Sending Pictures over the Prime App",
+	"category":"Prime App",
+	"message":["How to send pics on the Prime App", 
+		"From the HOME screen of your Prime App,",
+		"In the upper left corner, click the 3",
+		"lines. RIGHT ABOVE the 'Report Claim'",
+		"is a ROAD ASSIST link. Be sure you",
+		"fill in every line that you are able",
+		"so we have all the info to assist. If",
+		"you have saved pictures, click the",
+		"button in the lower left corner"]
 }]
