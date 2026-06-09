@@ -72,5 +72,19 @@
 		"Please send in the pictures of the",    
 		"damage and safety will ask you to call",
 		"when they are ready for you to do so." ]
+},
+{
+	"issue":"Is this repair warranty?",
+	"category":"Warranty repairs",
+	"message":["I never know if something is covered", 
+		"until we get guidance from the shop.",  
+		"We need to know the Primary Failure.",  
+		"Once they know what failed and why,",   
+		"they can better determine if it is",    
+		"going to be filed for warranty.",       
+		"We will also double check when the",    
+		"invoice and estimates arrive.",         
+		"We also have on-site reps from the",    
+		"dealer to assist us better." ]
 }
 ]
