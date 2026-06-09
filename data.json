@@ -45,5 +45,19 @@
 		"downtime. It is paid at 275 a day for", 
 		"solo and 400 for team.",                
 		"It will be added to your settlement.", ]
+},
+{
+	"issue":"Can you stop the alerts?",
+	"category":"Reefer Unit Alarms",
+	"message":["The alerts come in automatically from",
+		"the trailer. We are not able to stop",
+		"them from coming in to you. If we stop",
+		"this particular alert for your",
+		"trailer, it would stop it for ALL",     
+		"trailers in the fleet and they may",    
+		"have an issue that is NOT a false",     
+		"alert. I am sorry for the",             
+		"inconvenience and please do check it",  
+		"when you stop for any new issues."  ]
 }
 ]
