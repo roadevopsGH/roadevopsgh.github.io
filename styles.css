@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f6f4fb;
+  margin: 0;
+  padding: 32px;
+}
+
+.help-grid {
+  display: grid;
+  gap: 18px;
+}
+
+.help-card {
+  background: white;
+  border-left: 6px solid #5b2ca0;
+  border-radius: 14px;
+  padding: 20px;
+  box-shadow: 0 6px 18px rgba(0,0,0,.08);
+}
+
+.badge {
+  background: #5b2ca0;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 999px;
+  font-size: 12px;
+}
+
