@@ -152,5 +152,59 @@
 		"other. Leave them disconnected for 35", 
 		"min. Please let me know if you are",    
 		"able and if that gets you rolling. " ]
+},
+{
+	"issue":"How do I high Idle the truck?",
+	"category":"High Idle",
+	"message":["Turn ignition off for about 2 mins.",  
+		"After restarting:",                     
+		"1. On the dash go to Vehicle Settings",
+		"(truck symbol).",                       
+		"2. Scroll down to the bottom and",     
+		"select Idle Adjust.",                  
+		"3. Press OK.",                         
+		"4. Scroll up or down to adjust the",   
+		"Idle.",                                
+		"5. set at 900-925 RPM." ]
+},
+{
+	"issue":"I cant get the 5th wheel to unlatch",
+	"category":"Release Arm Stuck",
+	"message":["I'd like you to drive around in a",    
+		"Figure 8 about 3 times. Then try",      
+		"again. If that does not work.",         
+		"I'd like you to set the trailer brake", 
+		"and put the truck in reverse.",         
+		"Set the truck brakes when the",         
+		"truck and trailer are as close to one",
+		"another as possible. If you have a",   
+		"dock door, that is the best way to",    
+		"have a backstop for the trailer." ]
+},
+{
+	"issue":"My Windows will not go up or down",
+	"category":"Freightliner Windows Stuck",
+	"message":["In your fuse box there is a fuse that",
+		"says Door and window. look for that",  
+		"decription in the legend on the back",  
+		"of the fuse box lid. if you remove the",
+		"fuse and reinsert it, it will reset",  
+		"the door module and you should be able",
+		"to roll the window up or down.",       
+		"The fuse box is on the passenger side.",
+		"where the glovebox would be if it",    
+		"were a car   F69 F70 fuse.  " ]
+},
+{
+	"issue":"My Inverter is not working",
+	"category":"Inverter",
+	"message":["Start the truck for about 10 - 15 min", 
+		"to charge up the battery. After it is", 
+		"charged, if you have the Tundra",       
+		"inverter (The one big silver box with", 
+		"the red rocker on-off switch) put your",
+		"finger in the middle of the switch.",  
+		"Turn it on and off as fast as you are", 
+		"able. seriously, fast. " ]
 }
 ]
