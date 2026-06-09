@@ -11,7 +11,7 @@
 	"issue":"Sending Pictures over the Prime App",
 	"category":"Prime App",
 	"message":["How to send pics on the Prime App", 
-		"From the HOME screen of your Prime App,",
+		"From the HOME screen of your Prime App",
 		"In the upper left corner, click the 3",
 		"lines. RIGHT ABOVE the 'Report Claim'",
 		"is a ROAD ASSIST link. Be sure you",
@@ -86,5 +86,19 @@
 		"invoice and estimates arrive.",         
 		"We also have on-site reps from the",    
 		"dealer to assist us better." ]
+},
+{
+	"issue":"I am locked out of my truck",
+	"category":"Lockouts",
+	"message":["I will not be able to set up service", 
+		"for a lockout. You will need to call,",
+		"set up and pay for this service. I",   
+		"would start with 1-800-POP-A-LOCK.",    
+		"They are a nationwide locksmith. If",   
+		"they do not service the area, you can", 
+		"Google Locksmiths and or Tow",          
+		"companies to assist. Your dispatcher",  
+		"can advance you the funds for the",    
+		"lockout to pay them." ]
 }
 ]
