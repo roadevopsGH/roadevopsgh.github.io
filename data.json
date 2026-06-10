@@ -380,8 +380,102 @@
 	"message":["Check the tire inflation lines. They go from the Valve stem to the center of the axle. Just hand tighten, to the right. both ends. That may stop the leak. Check for nails in the tires. Listen for a leak under the trailer. Push in the red knob. If you hear air leaking, after the bags have inflated, let me know where you hear it leaking from."]
 },
 {
-	"issue":"My states are we tax exempt?",
+	"issue":"In what states are we tax exempt?",
 	"category":"Accounting Tax Exempt States",
 	"message":["We are Exempt in: NE, OH, IN, PN, NJ, KS, UT, NY, MI, WA, GA, MO, WI, IL. http://spprime/PForms/Accounting%20Forms/Forms/AllItems.aspx"]
+},
+{
+	"issue":"What set of drive tires do we chain?",
+	"category":"Winter Driving Chains",
+	"message":["The rear set of tires on the drive",   
+		"axle are the ones that you chain. They",
+		"are the ones that are connected to   ",
+		"the drivetrain and rotate when you   ",
+		"accelerate. The front drives do not  ",
+		"turn when the fuel pedal is depressed",
+		"BUT will if you apply the inner axle ",
+		"lock. We do not want to use the inner",
+		"axle lock if possible."]
+},
+{
+	"issue":"How do I dry out the trailer after a wash?",
+	"category":"DRYO Trailer dry out",
+	"message":["*****DRY OUT REEFER TRAILER*****",
+		"PUT THE REEFER IN "FUEL HOG" AND SET",  
+		"IT TO CONTINUOUS RUN. SET THE TEMP AT",
+		"35 DEGREES AND LET IT RUN FOR 30",      
+		"MINUTES, THEN SET IT TO 70 DEGREES AND",
+		"LET IT RUN FOR 30 MINUTES. KEEP",      
+		"ALTERNATING BETWEEN 35 AND 70 DEGREES",
+		"IN 30 MINUTE INTERVALS UNTIL TRAILER",
+		"IS DRY"]
+},
+{
+	"issue":"What are the Chains and Cables for?",
+	"category":"Winter Driving Chains Cables",
+	"message":["You chain the truck and you put",      
+		"cables on the trailer. The chains are", 
+		"designed to help you keep forward",     
+		"momentum and the cables are designed",  
+		"to keep the trailer from moving side",  
+		"to side. In most cases, you just need", 
+		"to chain one set of each, however",    
+		"local and state laws may require all",  
+		"drives to be chained. Tire socks are",  
+		"also good for the drive tires 	"]
+},
+{
+	"issue":"How much Antigel do I use?",
+	"category":"Winter Driving Antigel",
+	"message":["Follow the directions on the back of", 
+		"the bottle. It will let you know how",  
+		"much to add to each tank. We use many", 
+		"brands and the dosage is different for",
+		"each. It is best to add when you are", 
+		"fueling to be sure it mixes well. Run", 
+		"your apu and heater after to get some", 
+		"in those lines as they are more",       
+		"susceptible to gel up. Dont assume fuel",
+		"stops treat the fuel.    "]
+},
+{
+	"issue":"How much Antigel do I use?",
+	"category":"Winter Driving Antigel",
+	"message":["Most truck stops will carry chains",   
+		"cables and tire socks. Even though you",
+		"may not use them, some states require",
+		"you carry them by law. You will get a",
+		"hefty fine if you roll thru certain", 
+		"areas in the winter and they find you", 
+		"have none on you. you can also get",    
+		"them at the best price at a terminal. "]
+},
+{
+	"issue":"I'm stuck, how do I use the inneraxle lock?",
+	"category":"Winter Driving inner axle lock",
+	"message":["Make sure you are at a complete stop.",
+		"The wheels should be totally still",   
+		"before you engage the inner axel lock.", 
+		"When you press the fuel, all the tires",
+		"will turn together. This should help", 
+		"get you unstuck. When you have cleared",
+		"the place where you have no traction",
+		"come to a complete stop and disable",  
+		"the lock. Do not roll any further than",
+		"you must with it engaged. "]
+},
+{
+	"issue":"I'm gelled up!",
+	"category":"Winter Driving gel up diesel 911",
+	"message":["If your fuel is gelled in the truck",  
+		"or reefer tank, you can try to use",    
+		"Diesel 911. Red Bottle to get it",      
+		"ungelled. If it has reached the fuel",  
+		"filter, that will need to be changed.", 
+		"Pick up an extra when you go by a",     
+		"terminal or shop. You can find the",    
+		"filter number on the one you currently",
+		"have on the truck. If diesel 911 does",
+		"not help, we will need road service"]
 }
 ]
