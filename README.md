@@ -2,28 +2,30 @@
 
 A lightweight support portal built to replace manually maintained SharePoint knowledge base content
 
-##Features
+## Features
 
 -Searchable help topics
 -JSON-driven content management
 -Dynamic card rendering with Vanilla JS
 -GitHub page hosting
 
-##Languages
+## Technologies
 
 -HTML5
 -CSS
 -JS
 -JSON
 
-##Author
+## Author
 Jared Clyne 061026 
 
-##Version
+## Version
 1.0 "init build"
 
-##File Tree
--index.html
--data.json
--app.js
--styles.css
+## File Tree
+
+roadevopsgh.github.io/
+|_index.html
+|_data.json
+|_app.js
+|_styles.css
