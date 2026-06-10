@@ -258,5 +258,50 @@
 		"you do, he will make his way in.",    
 		"Message me ASAP when you are at the", 
 		"front door. Reference:"]
+},
+{
+	"issue":"Alternator not charging",
+	"category":"Reefer ALT not charging",
+	"message":["Your alternator is no longer charging",
+		"the batteries in your reefer unit. It",
+		"is an Issue. Essentially, the more it",
+		"runs, the faster it will die. If you", 
+		"have jumper cables, we can attach them",
+		"to the truck and it can temporarily",  
+		"keep the trailer charged up. if not",  
+		"we need to get you to a shop."]
+},
+{
+	"issue":"What is a defrost?",
+	"category":"Reefer Defrost cycles",
+	"message":["Your trailer is mechanically sound",   
+		"and working as expected.  When we have",
+		"a load below 32 degrees, We need to",  
+		"defrost the coils periodically. The",   
+		"colder the set point and the hotter",   
+		"the ambient, you will have more",       
+		"defrosts in route. Defrosts don't",     
+		"defrost the Trailer box, They defrost", 
+		"the coils.  I cannot stop the alerts", 
+		"no one can."]
+},
+{
+	"issue":"My Reefer engine is stalled!",
+	"category":"Reefer Engine Stall",
+	"message":["Your reefer unit engine is stalled",   
+		"The first thing we are going to do is", 
+		"check your fuel level. If you are low", 
+		"on fuel, add some. If your fuel is",    
+		"not low, clear the codes. Use the",     
+		"screen to find the alerts and clear",   
+		"them. This can happen periodically",    
+		"and may not be a fault that returns",   
+		"but if it continues to stall, it may",  
+		"be a deeper issue that needs a shop."]
+},
+{
+	"issue":"My Reefer is not getting down to temp",
+	"category":"Reefer Hot Product",
+	"message":["Your reefer is operating just as it should.  It is most likely hot product that was loaded into the trailer. When you have produce, eggs, or anything with a high water content, even meat, it will take a lot longer to get into temp. There is nothing we can do but wait. Side note: We do not want to adjust the temps to get it to cool faster."]
 }
 ]
