@@ -477,5 +477,10 @@
 		"filter number on the one you currently",
 		"have on the truck. If diesel 911 does",
 		"not help, we will need road service"]
+},
+{
+	"issue":"Where do I get body work done after an Accident?",
+	"category":"ACCI Body shop locations",
+	"message":["We will get the body work done when you get to either PRIME1, PRIPIT, or PRISLC, whichever works best for you. We have body shops at those locations to best get you in and out. When you have a good eta to one of those locations, we can set you up with the person who can schedule those repairs."]
 }
 ]
