@@ -303,5 +303,85 @@
 	"issue":"My Reefer is not getting down to temp",
 	"category":"Reefer Hot Product",
 	"message":["Your reefer is operating just as it should.  It is most likely hot product that was loaded into the trailer. When you have produce, eggs, or anything with a high water content, even meat, it will take a lot longer to get into temp. There is nothing we can do but wait. Side note: We do not want to adjust the temps to get it to cool faster."]
+},
+{
+	"issue":"My trailer temps are all over the place",
+	"category":"Reefer Heavily packaged product",
+	"message":["Your reefer is operating as intended. No need for service. You have a product with a lot of packaging. I can see the temp getting in range, the reefer shuts off, and then a 'see saw' pattern where it heats up quickly again. This is a sign of heavy packaging. or a sign that the product is not responding to the supply temp."]
+},
+{
+	"issue":"My Thermoking Optisets are not showing, empty product list",
+	"category":"Reefer Thermoking can't change Optiset",
+	"message":["Turn the reefer all the way off for 60 seconds, then turn it back on. Go to products and try to set the reefer correctly. Power cycling it should force it to update to the latest software. If this does not work, please let me know."]
+},
+{
+	"issue":"My Thermoking shuts down when the doors are open",
+	"category":"Reefer Thermoking Door Switch Bypass",
+	"message":["Go to your Product list, as if you were setting the reefer to Fresh Meat, or Fuel Hog. On the list there is an Optiset called 'DS BYPASS'. Be sure you set the setpoint back to where it should be after you make the change."]
+},
+{
+	"issue":"My Load Assignment setpoint does not match the Bill of Lading Setpoint",
+	"category":"Reefer BOL Setpoint mismatch",
+	"message":["If you have a mismatch with your bills and the load assn., You will need to contact your dispatcher to have them touch base with sales. Road Assist is not able to make any changes to your load assn. When your load assn. and the reefer setpoint and Intellisets match, the alerts will stop on their own. FOR NOW set the temp to match the bills."]
+},
+{
+	"issue":"My reefer unit says Starter Fault",
+	"category":"Reefer Starter Fault",
+	"message":["Your Reefer is having Starter faults. When you are able, Let your Fleet manager know you are going to switch the reefer to Fuel Hog, Continuous run. When you have it switched over, let me know. Keep an eye on it in route, and when you are empty, we will get it to a shop to repair it."]
+},
+{
+	"issue":"My ICRE load will not stay in Start Stop",
+	"category":"Reefer ICRE Start Stop Continuous",
+	"message":["Ice Cream loads are unique. The unit will switch between SS and CR during the trip. This is normal and expected. The reefer is operating as it should with no mechanical issue."]
+},
+{
+	"issue":"My Reefer keeps saying it is off, but it is on",
+	"category":"Reefer Not Tracking",
+	"message":["The trailer is not 'tracking'. It means it is not giving us real time updates.  On this load, please check the trailer when you stop to fuel or take your break. Please let me know when you are empty as well so we can get it to a shop and not reload it until it is repaired. I am sorry, it is going to give you a lot of false alerts, we are not able to stop them."]
+},
+{
+	"issue":"My Reefer has a Low Oil Fault",
+	"category":"Reefer Low oil Pressure",
+	"message":["ALERT RESPONSE*I am getting alerts about LOW OIL PRESSURE on your reefer. When you are able, please turn off the reefer unit for 5 min and check the oil level. Add only to the SAFE mark, 10 w 30 same as the truck. I would rather it be a little low than overfull."]
+},
+{
+	"issue":"My Reefer has a Low fuel",
+	"category":"Reefer Low fuel alert",
+	"message":["ALERT RESPONSE*Your reefer is sendings a LOW FUEL LEVEL WARNING. When you are able, please fuel the reefer tank. Please keep in mind, the reefer will shut down when it reaches 3 gallons to prevent it from running out completely. We need you to respond that this message has been received please."]
+},
+{
+	"issue":"How do I change my Reefer to Continuous/Start Stop",
+	"category":"Reefer Continuous Start Stop",
+	"message":["As long as you are in Fuel Hog or another Intelliset that allows it to run continuously: There is a button that looks like a big circle, with two small circles inside. Like a face. Hit that button. It will toggle between Continuous and Start Stop."]
+},
+{
+	"issue":"My Reefer says High comp Discharge Temp",
+	"category":"Reefer HCDT Fault",
+	"message":["The reefer is too hot. It is telling us it is overheating. If possible, Id like you to wash out the condenser on the top of the unit. But if you have no access to a water hose, Id like you to Dolly down the legs, Disconnect, pull up 5 ft. Open ONLY the front doors where the reefer motor is. Turn off the unit for 10 min. and let it cool after 10 MIN turn it back on."]
+},
+{
+	"issue":"My Tandems will not slide",
+	"category":"Trailer Tandems",
+	"message":["1. Start the truck, set your brakes and build air to the gov. cut off. 2. push in the trailer air supply. Leave the truck on and running for 15 min, fully filling the trailer. 3. Slide as you normally would. Engage the trailer brake, pull the slider pin and try to slide. If all the pins are retracting and the wheels are still rolling when you try, let me know."]
+},
+{
+	"issue":"My trailer has an air leak",
+	"category":"Trailer Air Leak",
+	"message":["I would like you to start the truck and build air until the Governer cuts out. Leave your brakes set on truck and trailer. Once you build air all the way, shut off the truck, supply air to the trailer. Look listen and feel for leaks. If you find a leak, send me a picture."]
+},
+{
+	"issue":"My trailer ABS light is on",
+	"category":"Trailer ABS light",
+	"message":["I want you to be sure your brakes are functioning well. Make sure you do a good visual inspection on the brakes to be sure they are not cracked or below DOT specifications. If you find anything, please send me a picture of the issue and we will address it. If your brakes are functional and you see no DOT violations we will address the ABS light at the terminal."]
+},
+{
+	"issue":"My trailer tire inflation light is on",
+	"category":"Trailer TIL Light Tire Emergency",
+	"message":["Check the tire inflation lines. They go from the Valve stem to the center of the axle. Just hand tighten, to the right. both ends. That may stop the leak. Check for nails in the tires. Listen for a leak under the trailer. Push in the red knob. If you hear air leaking, after the bags have inflated, let me know where you hear it leaking from."]
+},
+{
+	"issue":"My states are we tax exempt?",
+	"category":"Accounting Tax Exempt States",
+	"message":["We are Exempt in: NE, OH, IN, PN, NJ, KS, UT, NY, MI, WA, GA, MO, WI, IL. http://spprime/PForms/Accounting%20Forms/Forms/AllItems.aspx"]
 }
 ]
