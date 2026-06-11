@@ -38,6 +38,7 @@ Jared Clyne 061026
 
 ## Version
 1.0 "init build"
+1.1 "Beta" - Current
 
 ## File Tree
 
@@ -48,3 +49,8 @@ roadevopsgh.github.io/
 |_app.js
 |_styles.css
 ```
+
+## Updates
+
+-Added copy Text Functionality 06-11-26
+
