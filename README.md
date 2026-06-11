@@ -8,6 +8,9 @@ A lightweight support portal built to replace manually maintained SharePoint kno
 -JSON-driven content management
 -Dynamic card rendering with Vanilla JS
 -GitHub page hosting
+-Real-time search Filtering
+-User analytics with Microsoft Clarity
+-Heatmaps and Session recording
 
 ## Technologies
 
@@ -15,6 +18,20 @@ A lightweight support portal built to replace manually maintained SharePoint kno
 -CSS
 -JS
 -JSON
+-GitHub pages
+-Microsoft Clairity
+
+## Analytics
+
+Microsoft Clairity is integrated to provide:
+
+-Page view tracking
+-User session recording
+-Click heatmaps
+-Scroll depth analytics
+-User behavior insights
+
+These analytics should provide insite to how the webapp can be improved and better serve the personel who utilize it.
 
 ## Author
 Jared Clyne 061026 
