@@ -22,7 +22,7 @@ function renderCards(items){
 		  
 		  
         
-      </article>
+		</article>
     `).join("");
 }
 
