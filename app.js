@@ -1,12 +1,16 @@
 let helpData = [];
-
+function copyMessage(index){
+	const messageText = document.getElementById(`message-${index}`).innerText;
+	navigator.clipboard.writeText(messageText).then(() => {
+		alert("message copied!");
+	});
+}
 fetch(`data.json?v=${Date.now()}`)
 .then(response => response.json())
 .then(items =>{
     helpData = items;
 	renderCards(helpData);
 });
-
 function renderCards(items){
 	const container = document.getElementById("helpTopics");
 	container.innerHTML = items.map((item, index) => `
@@ -25,7 +29,6 @@ function renderCards(items){
 		</article>
     `).join("");
 }
-
 document.getElementById("searchBox").addEventListener("input", event => {
 	const searchTerm = event.target.value.toLowerCase();
 
@@ -39,10 +42,4 @@ document.getElementById("searchBox").addEventListener("input", event => {
 	renderCards(filteredItems);
 });
 
-/*One Click Copy Added 061126*/
-function copyMessage(index){
-	const messageText = document.getElementById(`message-${index}`).innerText;
-	navigator.clipboard.writeText(messageText).then(() => {
-		alert("message copied!");
-	});
-}
+

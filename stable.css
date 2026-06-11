@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f6f4fb;
+  margin: 0;
+  padding: 32px;
+}
+
+.help-grid {
+  display: grid;
+  gap: 18px;
+}
+
+.help-card {
+  background: white;
+  border-left: 6px solid #5b2ca0;
+  border-radius: 14px;
+  padding: 20px;
+  box-shadow: 0 6px 18px rgba(0,0,0,.08);
+}
+
+.badge {
+  background: #5b2ca0;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 999px;
+  font-size: 12px;
+}
+.search-box{
+  width: 100%;
+  max-width: 700px;
+  padding: 14px 18px;
+  margin: 20px 0 28px;
+  font-size: 18px;
+  border: 2px solid #ddd;
+  border-radius: 12px;
+}
+.search-box:focus{
+  outline: mpme;
+  border-color: #5b2ca0;
+  box-shadow 0 0 0 4px rgba(91, 44, 160, 0.15);
+}
+.message p {
+  line-height: 1.4;
+}
+
