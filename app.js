@@ -2,7 +2,7 @@ let helpData = [];
 function copyMessage(index){
 	const messageText = document.getElementById(`message-${index}`).innerText;
 	navigator.clipboard.writeText(messageText).then(() => {
-		alert("message copied!");
+		//alert("message copied!");
 	});
 }
 fetch(`data.json?v=${Date.now()}`)
