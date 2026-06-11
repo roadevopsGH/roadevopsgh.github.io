@@ -18,11 +18,11 @@ function renderCards(items){
 	    <span class="badge">${item.category}</span>
         <h2>${item.issue}</h2>
         
-          <div class="message-${index}">
+          <div id="message-${index}" class="message">
 		  	${item.message.join("<br>")}
 		  </div>
 		  
-		  <button class="copy-btn" onclick="copyMessage(${index}")>Copy Message</button>
+		  <button class="copy-btn" onclick='copyMessage(${index}')>Copy Message</button>
 		  
 		  
         
