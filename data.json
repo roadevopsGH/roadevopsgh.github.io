@@ -591,5 +591,33 @@
 	"issue":"How do I Snap to the Search Bar?",
 	"category":"Hotkeys Snap Search Bar",
 	"message":["CTRL + L"]
+},
+{
+	"issue":"What do you need to start a tire service on a reefer trailer?",
+	"category":"Reefer Tire Road Service",
+	"message":["I NEED THIS TO SEND/START TIRE SERVICE",
+		"1. Send a picture of the damaged tire", 
+		"showing the reason it went flat.",      
+		"2. Provide the POSITON i.e. Driver",    
+		"Front, Passenger rear.",                
+		"3. Send a picture of the spare tire",   
+		"underneath the trailer. Even if empty", 
+		"We want them to REPAIR it if able. Use",
+		"the SPARE if not, and a NEW as a LAST",
+		"resort. LMK ASAP How they proceed."]
+},
+{
+	"issue":"What is our policy on Spare usage?",
+	"category":"Reefer Spare Mount Tire Road Service",
+	"message":["SPARE USAGE ",                          
+		"I really Need them to use the spare",   
+		"tire under the trailer. If they do not",
+		" use the spare for any reason, i need", 
+		"to know about it ASAP!",                
+		"BEFORE you leave, please let me know",  
+		"if they did or did not use the spare", 
+		"Worst case is they use a new tire and", 
+		"we get charged for one when we had a",  
+		"perfectly good spare under the trlr"]
 }
 ]
