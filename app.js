@@ -13,15 +13,15 @@ function renderCards(items){
 	    <article class="help-card")>
 	    <span class="badge">${item.category}</span>
         <h2>${item.issue}</h2>
-        <ul>
+        
           <div class="message-${index}">
 		  	${item.message.join("<br>")}
 		  </div>
 		  
 		  <button class=""copy-btn" onclick="copyMessage(${index}")>Copy Message</button>
 		  
-		  <
-        </ul>
+		  
+        
       </article>
     `).join("");
 }
