@@ -22,10 +22,7 @@ function renderCards(items){
 		  	${item.message.join("<br>")}
 		  </div>
 		  
-		  <button class="copy-btn" onclick='copyMessage(${index}')>Copy Message</button>
-		  
-		  
-        
+		  <button class="copy-btn" onclick="copyMessage(${index})">Copy Message</button>  
 		</article>
     `).join("");
 }
