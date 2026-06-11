@@ -17,7 +17,7 @@ function renderCards(items){
           <div class="message-${index}">
 		  	${item.message.join("<br>")}
 		  </div>
-		  /*One Click Copy Added 061126*/
+		  
 		  <button class=""copy-btn" onclick="copyMessage(${index}")>Copy Message</button>
 		  
 		  <
