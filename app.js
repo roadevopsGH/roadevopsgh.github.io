@@ -9,12 +9,12 @@ fetch(`data.json?v=${Date.now()}`)
 
 function renderCards(items){
 	const container = document.getElementById("helpTopics");
-	container.innerHTML = items.map(item => `
+	container.innerHTML = items.map((item, index) => `
 	    <article class="help-card")>
 	    <span class="badge">${item.category}</span>
         <h2>${item.issue}</h2>
         <ul>
-          <div class="message">
+          <div class="message-${index}">
 		  	${item.message.join("<br>")}
 		  </div>
 		  /*One Click Copy Added 061126*/
