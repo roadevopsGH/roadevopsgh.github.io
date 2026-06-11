@@ -482,5 +482,114 @@
 	"issue":"Where do I get body work done after an Accident?",
 	"category":"ACCI Body shop locations",
 	"message":["We will get the body work done when you get to either PRIME1, PRIPIT, or PRISLC, whichever works best for you. We have body shops at those locations to best get you in and out. When you have a good eta to one of those locations, we can set you up with the person who can schedule those repairs."]
+},
+{
+	"issue":"How do I do a regen on a Freightliner?",
+	"category":"Freightliner Regen",
+	"message":["Follow the steps in this video",
+		"It was made by our Freightliner Rep.",
+		"https://youtu.be/xAybDRr6a18?si=X494nA3wHQgRAzsQ"]
+},
+{
+	"issue":"I have an ABS light on my Peterbilt",
+	"category":"Peterbilt ABS",
+	"message":["Follow the steps in this video",
+		"It was made by our RA Dept.",
+		"https://youtu.be/ErfCHggMvgY?si=3wXlOTSsCLlHNUOb"]
+},
+{
+	"issue":"What is a Drive Cycle?",
+	"category":"Diagnostics Drive Cycle",
+	"message":["A drive cycle is: Key turned to the On Position, Driven at Highway speed 40 MPH +, for at least 10 miles, Key turned to the OFF position."]
+},
+{
+	"issue":"Where can I find the CARB number?",
+	"category":"CARB TRU ID",
+	"message":["https://arber.arb.ca.gov/publicTruSearch.arb"]
+},
+{
+	"issue":"How do I drain the water in fuel on my Peterbilt",
+	"category":"Peterbilt WIF Water seperator",
+	"message":["Follow the steps in this video https://youtu.be/58bPMuP7Kyk, This video will show you how to reprime the system https://youtu.be/qr4FNbjT7lo"]
+},
+{
+	"issue":"Who is our Meritor Rep?",
+	"category":"Rep Meritor",
+	"message":["jack.vandergiessen@cummins.com"]
+},
+{
+	"issue":"How do I set the Intellisets on a Carrier Reefer unit?",
+	"category":"Reefer Operation Carrier",
+	"message":["Follow the steps in this video made by our Road Assist Team https://youtu.be/NRCoE8U34vs?si=JLGScU3p47RpNp8D"]
+},
+{
+	"issue":"How do I set the Optisets on a ThermoKing Reefer unit?",
+	"category":"Reefer Operation ThermoKing",
+	"message":["Follow the steps in this video made by our Road Assist Team https://youtu.be/Lvo2dylRZkY?si=4siblC3fCg60a6CZ"]
+},
+{
+	"issue":"How do I reprime Carrier 7500 Reefer unit?",
+	"category":"Reefer Operation Carrier Primeing",
+	"message":["Follow the steps in this video made by our Road Assist Team https://youtu.be/cRYHNxg7410?si=7N1rwOJRDFmxKZ7M"]
+},
+{
+	"issue":"How do I Jump my truck with a reefer unit or jump the reefer with my truck?",
+	"category":"Reefer Jump start",
+	"message":["Follow the steps in this video made by our Road Assist Team https://youtu.be/2eLGXohjgjk?si=vfp7QSN0T8t3WcLJ"]
+},
+{
+	"issue":"How do I rehang a Reefer Chute?",
+	"category":"Reefer Maint Chute Repair",
+	"message":["Follow the steps in this video made by our Road Assist Team https://youtu.be/5SSRzIJgfnI?si=Nr2GnnCuOhIwwDs4"]
+},
+{
+	"issue":"How do I do a defrost on a reefer?",
+	"category":"Reefer Maint Defrost",
+	"message":["Follow the steps in this video made by our Road Assist Team https://youtu.be/PjjNLFuAQGE?si=6WLClK8j3fpNi2Bo"]
+},
+{
+	"issue":"How much can we pay with ComData?",
+	"category":"Accounting Com Data",
+	"message":["10,000 is the max limit, including the 2.55  processing fee. $9997.45 is the max limit"]
+},
+{
+	"issue":"How do I see In House Messages I have Sent?",
+	"category":"AS400 in house messages",
+	"message":["MDM => 30 => 63 => 15"]
+},
+{
+	"issue":"How do I see who changed a trailer status?",
+	"category":"AS400 Trailer Status",
+	"message":["MDM => 60 => Trailer Files => Trailer Status"]
+},
+{
+	"issue":"How do I Switch Tabs?",
+	"category":"Hotkeys Switch Tab",
+	"message":["CTRL + TAB"]
+},
+{
+	"issue":"How do I Open a new tab?",
+	"category":"Hotkeys New Tab",
+	"message":["CTRL + T"]
+},
+{
+	"issue":"How do I Close a tab?",
+	"category":"Hotkeys Close Tab",
+	"message":["CTRL + W"]
+},
+{
+	"issue":"How do I Open a new Window?",
+	"category":"Hotkeys New Window",
+	"message":["CTRL + N"]
+},
+{
+	"issue":"How do I Close a Window?",
+	"category":"Hotkeys Close Window",
+	"message":["CTRL + F4"]
+},
+{
+	"issue":"How do I Snap to the Search Bar?",
+	"category":"Hotkeys Snap Search Bar",
+	"message":["CTRL + L"]
 }
 ]
