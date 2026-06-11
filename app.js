@@ -17,6 +17,10 @@ function renderCards(items){
           <div class="message">
 		  	${item.message.join("<br>")}
 		  </div>
+		  /*One Click Copy Added 061126*/
+		  <button class=""copy-btn" onclick="copyMessage(${index}")>Copy Message</button>
+		  
+		  <
         </ul>
       </article>
     `).join("");
@@ -34,3 +38,11 @@ document.getElementById("searchBox").addEventListener("input", event => {
 	});
 	renderCards(filteredItems);
 });
+
+/*One Click Copy Added 061126*/
+function copyMessage(index){
+	const messageText = document.getElementById(`message-${index}`).innerText;
+	navigator.clipboard.writeText(messageText).then(() => {
+		alert("message copied!");
+	});
+}
