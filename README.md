@@ -39,6 +39,7 @@ Jared Clyne 061026
 ## Version
 1.0 "init build"
 1.1 "Beta" - Current
+SHUT DOWN 061226 
 
 ## File Tree
 
