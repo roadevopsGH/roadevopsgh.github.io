@@ -1,1 +1,365 @@
-
+[{
+	"issue":"Is this repair warranty?",
+	"category":"Warranty repairs",
+	"message":["I never know if something is covered", 
+		"until we get guidance from the shop.",  
+		"We need to know the Primary Failure.",  
+		"Once they know what failed and why,",   
+		"they can better determine if it is",    
+		"going to be filed for warranty.",       
+		"We will also double check when the",    
+		"invoice and estimates arrive.",         
+		"We also have on-site reps from the",    
+		"dealer to assist us better." ]
+},
+{
+	"issue":"How can I get the fault codes on my Volvo?",
+	"category":"Volvo Action Line",
+	"message":["I would like you to call Volvo Action",
+		"line and retrieve the codes.",          
+		"The number is 1-800-528-6586.",         
+		"Extensions 1, then 3, then 1 again.",   
+		"Let me know the codes and the",         
+		"descriptions they give you please. We", 
+		"will make an action plan when we know", 
+		"what we are dealing with." ]
+},
+{
+	"issue":"How do I do a Key Cycle?",
+	"category":"Key Cycle",
+	"message":["To do a Key Cycle:",                   
+		"Step 1:",                               
+		"Truck off, Key in the 'ON' position, 5",
+		"min, THEN...",                          
+		"Step 2:",                               
+		"Truck off, Key in the 'OFF' position,", 
+		"5 min.",                               
+		"Let me know if and when you finish." ]
+},
+{
+	"issue":"How do I clear the codes with the battery switch?",
+	"category":"Clear Codes Power Switch",
+	"message":["Turn off the main power to the truck", 
+		"using the main power switch to the",    
+		"left of your driver's seat. Turn it",   
+		"off for 10 seconds, then back on for",  
+		"10 seconds. Do that 5 times in a row",  
+		"and let me know if there is any",       
+		"change. If not, turn off the main",     
+		"power for 35 min. Any less and we will",
+		"not get a full reset, any more and we",
+		"will have diminishing returns.  " ]
+},
+{
+	"issue":"How do I clear the codes by disconnecting the battery?",
+	"category":"Clear Codes Battery Disconnect",
+	"message":["If the power switch did not solve the",
+		"issue, we can try one more thing",     
+		"before we send out service. If you are",
+		"able, disconnect the Positive and",    
+		"Negative battery cables in your",       
+		"battery box. There are two. They come", 
+		"in on one side of the box or the",      
+		"other. Leave them disconnected for 35", 
+		"min. Please let me know if you are",    
+		"able and if that gets you rolling. " ]
+},
+{
+	"issue":"How do I high Idle the truck?",
+	"category":"High Idle",
+	"message":["Turn ignition off for about 2 mins.",  
+		"After restarting:",                     
+		"1. On the dash go to Vehicle Settings",
+		"(truck symbol).",                       
+		"2. Scroll down to the bottom and",     
+		"select Idle Adjust.",                  
+		"3. Press OK.",                         
+		"4. Scroll up or down to adjust the",   
+		"Idle.",                                
+		"5. set at 900-925 RPM." ]
+},
+{
+	"issue":"I cant get the 5th wheel to unlatch",
+	"category":"Release Arm Stuck",
+	"message":["I'd like you to drive around in a",    
+		"Figure 8 about 3 times. Then try",      
+		"again. If that does not work.",         
+		"I'd like you to set the trailer brake", 
+		"and put the truck in reverse.",         
+		"Set the truck brakes when the",         
+		"truck and trailer are as close to one",
+		"another as possible. If you have a",   
+		"dock door, that is the best way to",    
+		"have a backstop for the trailer." ]
+},
+{
+	"issue":"My Windows will not go up or down",
+	"category":"Freightliner Windows Stuck",
+	"message":["In your fuse box there is a fuse that",
+		"says Door and window. look for that",  
+		"decription in the legend on the back",  
+		"of the fuse box lid. if you remove the",
+		"fuse and reinsert it, it will reset",  
+		"the door module and you should be able",
+		"to roll the window up or down.",       
+		"The fuse box is on the passenger side.",
+		"where the glovebox would be if it",    
+		"were a car   F69 F70 fuse.  " ]
+},
+{
+	"issue":"My Inverter is not working",
+	"category":"Inverter",
+	"message":["Start the truck for about 10 - 15 min", 
+		"to charge up the battery. After it is", 
+		"charged, if you have the Tundra",       
+		"inverter (The one big silver box with", 
+		"the red rocker on-off switch) put your",
+		"finger in the middle of the switch.",  
+		"Turn it on and off as fast as you are", 
+		"able. seriously, fast. about 10 times. " ]
+},
+{
+	"issue":"What States are Split tow?",
+	"category":"Split tow states",
+	"message":["ARKANSAS",
+		"CONNECTICUT (up to 25 miles)",
+		"GEORGIA",
+		"INDIANA(up to 50 miles)",
+		"IOWA",
+		"KANSAS",
+		"MASSACHUSETTS",
+		"MICHIGAN",
+		"MONTANA",
+		"NEBRASKA",
+		"NEW JERSEY",
+		"New York",
+		"NORTH CAROLINA (up to 50 miles)",
+		"Ohio(must split if in Columbus)",
+		"Pennsylvania",
+		"SOUTH DAKOTA",
+		"South Carolina",
+		"South Dakota",
+		"TENNESSEE",
+		"VERMONT",
+		"WASHINGTON",
+		"WISCONSIN" ]
+},
+{
+	"issue":"Send driver to reefer shop after hours",
+	"category":"Reefer shop directions",
+	"message":["Please head to code:",      
+		"",
+		"",
+		"",
+		"",
+		"The tech is likely not going to be",  
+		"there when you arrive BUT as soon as",
+		"you do, he will make his way in.",    
+		"Message me ASAP when you are at the", 
+		"front door. Reference:"]
+},
+{
+	"issue":"Alternator not charging",
+	"category":"Reefer ALT not charging",
+	"message":["Your alternator is no longer charging",
+		"the batteries in your reefer unit. It",
+		"is an Issue. Essentially, the more it",
+		"runs, the faster it will die. If you", 
+		"have jumper cables, we can attach them",
+		"to the truck and it can temporarily",  
+		"keep the trailer charged up. if not",  
+		"we need to get you to a shop."]
+},
+{
+	"issue":"What is a defrost?",
+	"category":"Reefer Defrost cycles",
+	"message":["Your trailer is mechanically sound",   
+		"and working as expected.  When we have",
+		"a load below 32 degrees, We need to",  
+		"defrost the coils periodically. The",   
+		"colder the set point and the hotter",   
+		"the ambient, you will have more",       
+		"defrosts in route. Defrosts don't",     
+		"defrost the Trailer box, They defrost", 
+		"the coils."]
+},
+{
+	"issue":"My Reefer engine is stalled!",
+	"category":"Reefer Engine Stall",
+	"message":["Your reefer unit engine is stalled",   
+		"The first thing we are going to do is", 
+		"check your fuel level. If you are low", 
+		"on fuel, add some. If your fuel is",    
+		"not low, clear the codes. Use the",     
+		"screen to find the alerts and clear",   
+		"them. This can happen periodically",    
+		"and may not be a fault that returns",   
+		"but if it continues to stall, it may",  
+		"be a deeper issue that needs a shop."]
+},
+{
+	"issue":"My Reefer is not getting down to temp",
+	"category":"Reefer Hot Product",
+	"message":["Your reefer is operating just as it should.  It is most likely hot product that was loaded into the trailer. When you have produce, eggs, or anything with a high water content, even meat, it will take a lot longer to get into temp. There is nothing we can do but wait. Side note: We do not want to adjust the temps to get it to cool faster."]
+},
+{
+	"issue":"My trailer temps are all over the place",
+	"category":"Reefer Heavily packaged product",
+	"message":["Your reefer is operating as intended. No need for service. You have a product with a lot of packaging. I can see the temp getting in range, the reefer shuts off, and then a 'see saw' pattern where it heats up quickly again. This is a sign of heavy packaging. or a sign that the product is not responding to the supply temp."]
+},
+{
+	"issue":"My Thermoking Optisets are not showing, empty product list",
+	"category":"Reefer Thermoking can't change Optiset",
+	"message":["Turn the reefer all the way off for 60 seconds, then turn it back on. Go to products and try to set the reefer correctly. Power cycling it should force it to update to the latest software. If this does not work, please let me know."]
+},
+{
+	"issue":"My Reefer has a Low Oil Fault",
+	"category":"Reefer Low oil Pressure",
+	"message":["ALERT RESPONSE*I am getting alerts about LOW OIL PRESSURE on your reefer. When you are able, please turn off the reefer unit for 5 min and check the oil level. Add only to the SAFE mark, 10 w 30 same as the truck. I would rather it be a little low than overfull."]
+},
+{
+	"issue":"My Reefer has a Low fuel",
+	"category":"Reefer Low fuel alert",
+	"message":["ALERT RESPONSE*Your reefer is sendings a LOW FUEL LEVEL WARNING. When you are able, please fuel the reefer tank. Please keep in mind, the reefer will shut down when it reaches 3 gallons to prevent it from running out completely. We need you to respond that this message has been received please."]
+},
+{
+	"issue":"My Reefer says High comp Discharge Temp",
+	"category":"Reefer HCDT Fault",
+	"message":["The reefer is too hot. It is telling us it is overheating. If possible, Id like you to wash out the condenser on the top of the unit. But if you have no access to a water hose, Id like you to Dolly down the legs, Disconnect, pull up 5 ft. Open ONLY the front doors where the reefer motor is. Turn off the unit for 10 min. and let it cool after 10 MIN turn it back on."]
+},
+{
+	"issue":"My Tandems will not slide",
+	"category":"Trailer Tandems",
+	"message":["1. Start the truck, set your brakes and build air to the gov. cut off. 2. push in the trailer air supply. Leave the truck on and running for 15 min, fully filling the trailer. 3. Slide as you normally would. Engage the trailer brake, pull the slider pin and try to slide. If all the pins are retracting and the wheels are still rolling when you try, let me know."]
+},
+{
+	"issue":"My trailer has an air leak",
+	"category":"Trailer Air Leak",
+	"message":["I would like you to start the truck and build air until the Governer cuts out. Leave your brakes set on truck and trailer. Once you build air all the way, shut off the truck, supply air to the trailer. Look listen and feel for leaks. If you find a leak, send me a picture."]
+},
+{
+	"issue":"My trailer tire inflation light is on",
+	"category":"Trailer TIL Light Tire Emergency",
+	"message":["Check the tire inflation lines. They go from the Valve stem to the center of the axle. Just hand tighten, to the right. both ends. That may stop the leak. Check for nails in the tires. Listen for a leak under the trailer. Push in the red knob. If you hear air leaking, after the bags have inflated, let me know where you hear it leaking from."]
+},
+{
+	"issue":"What set of drive tires do we chain?",
+	"category":"Winter Driving Chains",
+	"message":["The rear set of tires on the drive",   
+		"axle are the ones that you chain. They",
+		"are the ones that are connected to   ",
+		"the drivetrain and rotate when you   ",
+		"accelerate. The front drives do not  ",
+		"turn when the fuel pedal is depressed",
+		"BUT will if you apply the inner axle ",
+		"lock. We do not want to use the inner",
+		"axle lock if possible."]
+},
+{
+	"issue":"What are the Chains and Cables for?",
+	"category":"Winter Driving Chains Cables",
+	"message":["You chain the truck and you put",      
+		"cables on the trailer. The chains are", 
+		"designed to help you keep forward",     
+		"momentum and the cables are designed",  
+		"to keep the trailer from moving side",  
+		"to side. In most cases, you just need", 
+		"to chain one set of each, however",    
+		"local and state laws may require all",  
+		"drives to be chained. Tire socks are",  
+		"also good for the drive tires"]
+},
+{
+	"issue":"How much Antigel do I use?",
+	"category":"Winter Driving Antigel",
+	"message":["Follow the directions on the back of", 
+		"the bottle. It will let you know how",  
+		"much to add to each tank. We use many", 
+		"brands and the dosage is different for",
+		"each. It is best to add when you are", 
+		"fueling to be sure it mixes well. Run", 
+		"your apu and heater after to get some", 
+		"in those lines as they are more",       
+		"susceptible to gel up. Dont assume fuel",
+		"stops treat the fuel.    "]
+},
+{
+	"issue":"Where can I get Chains and Cables?",
+	"category":"Winter Driving Chains and cables",
+	"message":["Most truck stops will carry chains",   
+		"cables and tire socks. Even though you",
+		"may not use them, some states require",
+		"you carry them by law. You will get a",
+		"hefty fine if you roll thru certain", 
+		"areas in the winter and they find you", 
+		"have none on you. you can also get",    
+		"them at the best price at a terminal. "]
+},
+{
+	"issue":"I'm stuck, how do I use the inneraxle lock?",
+	"category":"Winter Driving inner axle lock",
+	"message":["Make sure you are at a complete stop.",
+		"The wheels should be totally still",   
+		"before you engage the inner axel lock.", 
+		"When you press the fuel, all the tires",
+		"will turn together. This should help", 
+		"get you unstuck. When you have cleared",
+		"the place where you have no traction",
+		"come to a complete stop and disable",  
+		"the lock. Do not roll any further than",
+		"you must with it engaged. "]
+},
+{
+	"issue":"I'm gelled up!",
+	"category":"Winter Driving gel up diesel 911",
+	"message":["If your fuel is gelled in the truck",  
+		"or reefer tank, you can try to use",    
+		"Diesel 911. Red Bottle to get it",      
+		"ungelled. If it has reached the fuel",  
+		"filter, that will need to be changed.", 
+		"Pick up an extra when you go by a",     
+		"terminal or shop. You can find the",    
+		"filter number on the one you currently",
+		"have on the truck. If diesel 911 does",
+		"not help, we will need road service"]
+},
+{
+	"issue":"What is a Drive Cycle?",
+	"category":"Diagnostics Drive Cycle",
+	"message":["A drive cycle is: Key turned to the On Position, Driven at Highway speed 40 MPH +, for at least 10 miles, Key turned to the OFF position."]
+},
+{
+	"issue":"Where can I find the CARB number?",
+	"category":"CARB TRU ID",
+	"message":["https://arber.arb.ca.gov/publicTruSearch.arb"]
+},
+{
+	"issue":"How do I Switch Tabs?",
+	"category":"Hotkeys Switch Tab",
+	"message":["CTRL + TAB"]
+},
+{
+	"issue":"How do I Open a new tab?",
+	"category":"Hotkeys New Tab",
+	"message":["CTRL + T"]
+},
+{
+	"issue":"How do I Close a tab?",
+	"category":"Hotkeys Close Tab",
+	"message":["CTRL + W"]
+},
+{
+	"issue":"How do I Open a new Window?",
+	"category":"Hotkeys New Window",
+	"message":["CTRL + N"]
+},
+{
+	"issue":"How do I Close a Window?",
+	"category":"Hotkeys Close Window",
+	"message":["CTRL + F4"]
+},
+{
+	"issue":"How do I Snap to the Search Bar?",
+	"category":"Hotkeys Snap Search Bar",
+	"message":["CTRL + L"]
+}]
