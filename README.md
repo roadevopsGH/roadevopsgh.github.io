@@ -1,6 +1,6 @@
-# Road Assist Portal
+# Maint Portal
 
-A lightweight support portal built to replace manually maintained SharePoint knowledge base content
+A lightweight support portal built to replace manually maintained knowledge base content
 
 ## Features
 
