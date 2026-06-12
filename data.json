@@ -8,9 +8,7 @@
 		"they can better determine if it is",    
 		"going to be filed for warranty.",       
 		"We will also double check when the",    
-		"invoice and estimates arrive.",         
-		"We also have on-site reps from the",    
-		"dealer to assist us better." ]
+		"invoice and estimates arrive." ]
 },
 {
 	"issue":"How can I get the fault codes on my Volvo?",
@@ -143,20 +141,6 @@
 		"VERMONT",
 		"WASHINGTON",
 		"WISCONSIN" ]
-},
-{
-	"issue":"Send driver to reefer shop after hours",
-	"category":"Reefer shop directions",
-	"message":["Please head to code:",      
-		"",
-		"",
-		"",
-		"",
-		"The tech is likely not going to be",  
-		"there when you arrive BUT as soon as",
-		"you do, he will make his way in.",    
-		"Message me ASAP when you are at the", 
-		"front door. Reference:"]
 },
 {
 	"issue":"Alternator not charging",
